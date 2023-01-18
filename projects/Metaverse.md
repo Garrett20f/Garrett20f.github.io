@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/download.jpg
+image: img/download.jpeg
 title: "Metaverse"
 date: 2021
 published: true
