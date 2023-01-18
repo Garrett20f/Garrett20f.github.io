@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/download.jpg
 title: "Metaverse"
 date: 2021
 published: true
