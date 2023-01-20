@@ -6,7 +6,7 @@ title: "The Great Adventure"
 date: 2022-01-18
 published: true
 labels:
-  - Engineering
+  - Adventure
 ---
 
 *Adventure: a thing that is hard to accomplish.*
