@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Great Adventure"
 # All dates must be YYYY-MM-DD format!
-date: 2021-02-06
+date: 2022-01-18
 published: true
 labels:
   - Engineering
