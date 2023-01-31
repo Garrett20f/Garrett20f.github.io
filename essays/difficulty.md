@@ -3,14 +3,16 @@ layout: essay
 type: essay
 title: "The difficult things will always be difficult"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-30
 published: true
 labels:
   - WOD Essay
 ---
 
 
-*WOD Essay: a skill that is difficult to accomplish.*
+*UI Basics Technical Essay.*
+
+## WOD 1
 
 I didn't have a single clue where to begin for browser history 1 WOD. I attempted to start it on my own however I didn't get very far and spent way too much time trying to figure it out. I then went on to watch the screencast solution and went through it step by step. I realized however that watching the screen cast was not very useful and went back through it and took notes. I also realized that having the pages that were needed to be copied already and available saved a lot of time. I learned a lot about HTML and how to add links to my web page. I finished in about 28 minutes the first two times and then after taking notes I finished in 16 minutes then finally in 15 minutes. 
 
