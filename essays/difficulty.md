@@ -10,7 +10,7 @@ labels:
 ---
 
 
-*UI Basics Technical Essay.*
+*UI Basics Technical Essay WOD1-WOD3.*
 
 ## WOD 1
 
