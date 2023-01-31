@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-30
 published: true
