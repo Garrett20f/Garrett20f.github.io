@@ -9,7 +9,7 @@ labels:
   - Progress Report
 ---
 
-I agree that my programming skills have greatly improved in the following ways. I have tried to improve how to organize my code in a way that makes it easier to read. I have tried my best to make a habit to make comments on my code so that it is easier to go back and find what needs to be changed. I try to complete the tasks using the least amount of code possible as to keep it easier to manage as well as easier for others to read and understand. 
+I agree that my programming skills have improved greatly in the following ways. I have tried to improve how to organize my code in a way that makes it easier to read. I have tried my best to make a habit to make comments on my code so that it is easier to go back and find what needs to be changed. I try to complete the tasks using the least amount of code possible as to keep it easier to manage as well as easier for others to read and understand. 
 
 
 I agree that I need to work on improving on certain aspects of my programming skills. I need to improve my organization of my code as it is getting better but still needs improvement. I need to improve my habit of making comments whenever I start a new line of code. I have also improved trying to reduce unnecessary long amounts of code to make it easier for others to read.
@@ -28,7 +28,3 @@ I think the class can be improved to help my learning by taking more time in cla
 
 
 What helped me the most in class are the Screencast and the quizzes. I found the screencasts to be very helpful as they would help me get a better understanding of what was to be expected of what was going to be covered in class. I also found the quizzes to be very helpful as they challenged me in a way that made it so I could keep trying since there are unlimited attempts without my grade taking any penalties. 
-
-
-
-
