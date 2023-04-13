@@ -18,7 +18,7 @@ I agree that I need to work on improving on certain aspects of my programming sk
 I agree that I have learned a lot from doing the WODs. I can do most of the WODs without copying the screencast. However it can take up to seven or eight attempts to figure it out. I find WODs to be very useful as in the real world you will not have all the time in the world to complete your code. I also enjoy the challenge of the WODs as they test your knowledge and skill in programming. 
 
 
-I agree the labs have helped me learn and I am able to complete them with confidence. I however must say that these labs can be very time consuming as they require lots of screenshots of code in the terminal console and also inside the browser console. I do enjoy the on your own section of the labs however as it can be very challenging and tests my knowledge of coding skills. 
+I agree the labs have helped me learn and I am able to complete them with confidence. I however must say that these labs can be very time consuming as they require lots of screenshots of code in the terminal console and also inside the browser console. I do enjoy the on your own section of the labs however as it can be very challenging and tests my knowledge and coding skills. 
 
 
 I Agree that I have learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2. However I must say assignment 1 took me longer than I expected. It was by far the hardest thing we had to do in this class to date. I also realized that the way I designed my server would work for my Individual requirement 3 and I had to go back and redesign it so that it wouldn't reload my page and instead notify the user what their error was and make the quantity selected textbox border red. 
