@@ -8,7 +8,7 @@ published: true
 labels:
   - Progress Report
 ---
-This assignment required us to add a login and registration page on top of the previous assignment and save this user data to a JSON file that could be retrieved later to match with the user's login information. I had individual requirement 1 for this assignment and it required me to add encryption to the user's password. A link for more information on this assignment can be found <a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html">here</a>. 
+This assignment required us to add a login and registration page on top of the previous assignment and save this user data to a JSON file that could be retrieved later to match with the user's login information. I had individual requirement 1 for this assignment and it required me to add encryption to the user's password. A link for more information on this assignment can be found<a href="https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html">here</a>.
 
 
 I learned a lot of valuable information from assignment 2. One key takeaway from this project was the security aspect. My individual requirement for this assignment challenged me greatly as it required me to encrypt the user's passwords when registering and then match that encrypted password with the plain text password the user used when logging in after it was encrypted and match it with the stored encrypted password. 
