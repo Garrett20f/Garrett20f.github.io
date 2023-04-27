@@ -9,3 +9,4 @@ labels:
   - Progress Report
 ---
 
+A link to my Assignment 3 Checklist can be found <a href="https://youtu.be/Jr7HDqSrjZU">here</a>.
